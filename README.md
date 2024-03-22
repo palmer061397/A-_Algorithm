@@ -1,6 +1,3 @@
-# A-_Algorithm
-This code implements the A* algorithm to find the shortest path between two vertices in a graph. 
-
 # Manhattan Graph A* Algorithm
 
 This Python script implements the A* algorithm to find the shortest path between two locations in Manhattan represented as vertices in a graph.
